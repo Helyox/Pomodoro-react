@@ -6,7 +6,7 @@ This Pomodoro Timer is a simple React application for time management based on t
 
 - Timer for Pomodoro sessions (25 minutes), short breaks (5 minutes), and long breaks (15 minutes)
 - Audio notification when the timer reaches 5 seconds remaining (can be toggled on/off)
-- - Option to play a continuous live YouTube video, specifically designed for playing the Quran in the background.
+- Option to play a continuous live YouTube video, specifically designed for playing the Quran in the background.
 - Pause, resume, and reset functionalities
 
 ## Installation
